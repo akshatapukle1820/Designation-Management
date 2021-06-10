@@ -1,0 +1,5 @@
+-d
+..\\classes
+-classpath
+..\\..\\dl\\classes;..\\..\\bl\\classes;..\\..\\..\\forProjects\\common\\dist\\tmcommon.jar;.
+com\\thinking\\machines\\hr\\pl\\ui\\DesignationUI.java
